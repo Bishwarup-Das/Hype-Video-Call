@@ -32,7 +32,7 @@ yarn watch:client
 
 **Render** (Free - Recommended)
 
-<a href="https://render.com/deploy?repo=https://github.com/nguymin4/react-videocall/tree/production" style="display: block; margin-bottom: 20px">
+<a href="https://render.com/deploy?repo=https://github.com/Bishwarup-Das/Hype-Video-Call.git" style="display: block; margin-bottom: 20px">
   <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render" height="36px">
 </a>
 
