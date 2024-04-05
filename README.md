@@ -1,7 +1,7 @@
 ## React-VideoCall
 Demo app: [https://morning-escarpment-67980.onrender.com](https://hype-video-call.onrender.com)  
 
-<img align="right" width="420" src="https://raw.githubusercontent.com/nguymin4/react-videocall/master/screenshots/1.png"  alt =" " style="border: solid 1px #d4d4d4" />
+<img align="right" width="420" src="[https://raw.githubusercontent.com/nguymin4/react-videocall/master/screenshots/1.png](https://github.com/Bishwarup-Das/Hype-Video-Call/blob/main/screenshots/1.png)"  alt =" " style="border: solid 1px #d4d4d4" />
   
 Video call to your friend without registering. 
 Simply send your friend your auto-generated unique ID to make the call.  
