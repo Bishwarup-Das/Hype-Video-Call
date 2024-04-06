@@ -2,7 +2,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import PropTypes from 'prop-types';
 import classnames from 'classnames';
-import { faPhone, faVideo } from '@fortawesome/free-solid-svg-icons';
+import { faPhone, faVideo, faMicrophone} from '@fortawesome/free-solid-svg-icons';
 import ActionButton from './ActionButton';
 
 function CallWindow({ peerSrc, localSrc, config, mediaDevice, status, endCall }) {
@@ -50,7 +50,7 @@ function CallWindow({ peerSrc, localSrc, config, mediaDevice, status, endCall })
         />
         <ActionButton
           key="btnAudio"
-          icon={faPhone}
+          icon={faMicrophone}
           disabled={!audio}
           onClick={() => toggleMediaDevice('Audio')}
         />
