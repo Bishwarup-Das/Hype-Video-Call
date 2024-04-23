@@ -1,5 +1,5 @@
 ## React-VideoCall
-Demo app: [https://morning-escarpment-67980.onrender.com](https://hype-video-call.onrender.com)  
+Demo app: https://hype-video-call.onrender.com
 
 <img align="left" width="420" src="https://github.com/Bishwarup-Das/Hype-Video-Call/blob/main/screenshots/1.png"  alt =" " style="border: solid 1px #d4d4d4" />
   
